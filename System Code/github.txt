@@ -1,0 +1,8 @@
+Main GitHub: https://github.com/mabejeok/IRS-PM-2020-11-01-ISY5001-GRP1-ChildcareMatcher
+
+
+Please note that there are three systems in total for this project + webscrapping/sentiment analysis code for scrapping/scoring reviews and this will be updated in the MySQL database:
+1. Parent recommendation system (Python/Flask system) - https://github.com/mabejeok/parent_recommendation_system
+2. KIE childcare matcher (Springboot with KIE) - https://github.com/mabejeok/kie_childcare_matcher
+3. Childcare matcher (Python/Flask system) - https://github.com/mabejeok/childcare_matcher
+4. Webscrapping + Sentiment Analysis - https://github.com/padmapriya-mathivanan/IRS_PM1_Sentiments_Webscrapping
